@@ -37,7 +37,7 @@ Security analysts will often use a combination of other tools to carefully evalu
    Sandbox reports include information about the specific actions the file takes when it's executed in a sandboxed environment, such as registry and file system actions,
    processes, and more. Notice the different types of tactics and techniques used by this malware and the files it created.
 
-<img src="" width="800" />
+<img src="https://github.com/melaniedaniel7/Investigate-a-suspicious-file-hash/blob/abf4aa17a3d40992f51b1a0806a9f5f92016cc97/Screenshot%202024-11-11%20at%2019.25.22.png" width="800" />
 
 💡 Sandbox reports are useful in understanding the behavior of a file, but they might contain information that is not relevant to the analysis of the file. 
 By default, VirusTotal shows all sandbox reports in the Behavior tab. One can select individual sandbox reports to view. 
