@@ -56,4 +56,6 @@ It is recommended to use multiple sources of information when evaluating files.
 
 ### Pyramid of Pain
 
+<img src="" width="800" />
+
 💡 VirusTotal reports can contain legitimate domains and IP addresses that are not considered malicious. 
