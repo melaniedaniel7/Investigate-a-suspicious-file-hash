@@ -24,7 +24,7 @@ Security analysts will often use a combination of other tools to carefully evalu
 2) Details: This tab provides additional information extracted from a static analysis of the IoC.
    Notice the additional hashes associated with this malware like MD5, SHA-1, and more. 
 
-<img src="" width="600" />
+<img src="https://github.com/melaniedaniel7/Investigate-a-suspicious-file-hash/blob/3926074f2db15bfd8e68b79bcdf7d8e25db0b86c/Screenshot%202024-11-11%20at%2018.49.55.png" width="800" />
 
 3) Relations: This tab contains information about the network connections this malware has made with URLs, domain names, and IP addresses.
    The Detections column indicates how many vendors have flagged the URL or IP address as malicious.
