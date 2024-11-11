@@ -29,7 +29,7 @@ Security analysts will often use a combination of other tools to carefully evalu
 3) Relations: This tab contains information about the network connections this malware has made with URLs, domain names, and IP addresses.
    The Detections column indicates how many vendors have flagged the URL or IP address as malicious.
 
-<img src="" width="600" />
+<img src="https://github.com/melaniedaniel7/Investigate-a-suspicious-file-hash/blob/138665873c37fa6fa9d71570431f60e38ae0320b/Screenshot%202024-11-11%20at%2018.53.05.png" width="800" />
 
 4) Behavior: This tab contains information related to the observed activity and behaviors of an artifact after executing it in a controlled environment,
    such as a sandboxed environment. A sandboxed environment is an isolated environment that allows a file to be executed and observed by analysts and researchers.
@@ -37,7 +37,7 @@ Security analysts will often use a combination of other tools to carefully evalu
    Sandbox reports include information about the specific actions the file takes when it's executed in a sandboxed environment, such as registry and file system actions,
    processes, and more. Notice the different types of tactics and techniques used by this malware and the files it created.
 
-<img src="" width="600" />
+<img src="" width="800" />
 
 💡 Sandbox reports are useful in understanding the behavior of a file, but they might contain information that is not relevant to the analysis of the file. 
 By default, VirusTotal shows all sandbox reports in the Behavior tab. One can select individual sandbox reports to view. 
