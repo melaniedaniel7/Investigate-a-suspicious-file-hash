@@ -19,7 +19,7 @@ Security analysts will often use a combination of other tools to carefully evalu
 1) Detection: This tab provides a list of third-party security vendors and their detection verdicts on an artifact.
    Detection verdicts include: malicious, suspicious, unsafe, and others. Notice how many security vendors have reported this hash as malicious and how many have not.
 
-<img src="" width="600" />
+<img src="https://github.com/melaniedaniel7/Investigate-a-suspicious-file-hash/blob/13804362ba7a24e7f196ff644cb56a190e14cb5b/Screenshot%202024-11-11%20at%2018.48.57.png" width="800" />
 
 2) Details: This tab provides additional information extracted from a static analysis of the IoC.
    Notice the additional hashes associated with this malware like MD5, SHA-1, and more. 
