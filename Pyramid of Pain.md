@@ -58,4 +58,11 @@ It is recommended to use multiple sources of information when evaluating files.
 
 <img src="" width="800" />
 
+In this activity I was only required to include three IoC examples. Therefore, the IoC examples that have an "NB" infront of them are from the memo and the memo explanation is included below for my own learning purposes.
+
+IoC examples from the memo:
+- IP address: 207.148.109.242 is listed as one of many IP addresses under the Relations tab in the VirusTotal report. This IP address is also associated with the org.misecure.com domain as listed in the DNS Resolutions section under the Behavior tab from the Zenbox sandbox report.
+- Network/host artifacts: Network-related artifacts that have been observed in this malware are HTTP requests made to the org.misecure.com domain. This is listed in the Network Communications section under the Behavior tab from the Venus Eye Sandbox and Rising MOVES sandbox reports.
+- Tools: Input capture is listed in the Collection section under the Behavior tab from the Zenbox sandbox report. Malicious actors use input capture to steal user input such as passwords, credit card numbers, and other sensitive information.
+
 💡 VirusTotal reports can contain legitimate domains and IP addresses that are not considered malicious. 
