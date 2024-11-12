@@ -56,7 +56,7 @@ It is recommended to use multiple sources of information when evaluating files.
 
 ### Pyramid of Pain
 
-<img src="" width="800" />
+<img src="https://github.com/melaniedaniel7/Investigate-a-suspicious-file-hash/blob/1b3d245e1814bbc11246538eb4a80755626c5d43/Screenshot%202024-11-12%20at%2012.11.59.png" width="800" />
 
 In this activity I was only required to include three IoC examples. Therefore, the IoC examples that have an "NB" infront of them are from the memo and the memo explanation is included below for my own learning purposes.
 
