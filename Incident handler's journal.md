@@ -6,7 +6,7 @@ Disclaimer:
 11/11/2024
 
 ### Entry:
-4
+2
 
 ### Discription:
 An employee received an email containing an attachment. The attachment was a password-protected spreadsheet file. The spreadsheet's password was provided in the email. The employee downloaded the file, then entered the password to open the file. When the employee opened the file, a malicious payload was then executed on their computer. 
