@@ -2,7 +2,7 @@
 
 In this activity, I analyzed an artifact using VirusTotal and captured details about its related indicators of compromise using the Pyramid of Pain. 
 
-Disclaimer:
+Disclaimer: This project was created as part of my learning journey through the Google Professional Cybersecurity Certificate offered on Coursera. Some activities and content within this project were provided by the course as part of my coursework. All credit for such content belongs to Google and Coursera, and I acknowledge their role in supporting the completion of this project.
 
 The Pyramid of Pain, is a concept used to understand the different types of indicators of compromise (IoCs). An IoC is observable evidence that suggests signs of a potential security incident. The Pyramid of Pain describes the relationship between IoCs and the level of difficulty that malicious actors experience when the IoCs are blocked by security teams.
 
